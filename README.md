@@ -26,4 +26,4 @@
 ### 3. Multi‑Task Downstream Output
 - **Graph‑Level Classification:** Predict if a contract is vulnerable.  
 - **Node‑Level Localization:** Identify which functions or code segments are vulnerable.  
-- **Joint Loss:** Combine graph classification and node classification losses for shared featu
+- **Joint Loss:** Combine graph classification and node classification losses for shared feature
